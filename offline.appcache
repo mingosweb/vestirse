@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1457457878
+#1457717548
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -23,6 +23,7 @@ images/fondolazarillo-sheet0.png
 images/btncontinuar-sheet0.png
 images/sprite3-sheet0.png
 images/goto-sheet0.png
+images/fondoanimation-sheet0.png
 media/error%20de%20juego.ogg
 media/rightchime1.ogg
 media/ganar%20juego_2.ogg
